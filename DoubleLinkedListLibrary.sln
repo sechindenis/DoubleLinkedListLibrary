@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoubleLinkedListLibrary", "DoubleLinkedListLibrary\DoubleLinkedListLibrary.csproj", "{E54E8257-6431-434F-ACE3-C24A99F23D54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoubleLinkedListLibrary.Test", "DoubleLinkedListLibrary.Test\DoubleLinkedListLibrary.Test.csproj", "{47B055EB-3576-4CCB-8E63-FB836BD170AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E54E8257-6431-434F-ACE3-C24A99F23D54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E54E8257-6431-434F-ACE3-C24A99F23D54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E54E8257-6431-434F-ACE3-C24A99F23D54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E54E8257-6431-434F-ACE3-C24A99F23D54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47B055EB-3576-4CCB-8E63-FB836BD170AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47B055EB-3576-4CCB-8E63-FB836BD170AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47B055EB-3576-4CCB-8E63-FB836BD170AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47B055EB-3576-4CCB-8E63-FB836BD170AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {521D497B-0CA9-451A-84B8-4052473E3005}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\DoubleLinkedListLibrary\DoubleLinkedListLibrary\bin\Debug\net6.0\DoubleLinkedListLibrary.exe
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\DoubleLinkedListLibrary\DoubleLinkedListLibrary\bin\Debug\net6.0\DoubleLinkedListLibrary.deps.json
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\DoubleLinkedListLibrary\DoubleLinkedListLibrary\bin\Debug\net6.0\DoubleLinkedListLibrary.runtimeconfig.json
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\DoubleLinkedListLibrary\DoubleLinkedListLibrary\bin\Debug\net6.0\DoubleLinkedListLibrary.dll
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\DoubleLinkedListLibrary\DoubleLinkedListLibrary\bin\Debug\net6.0\DoubleLinkedListLibrary.pdb
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\DoubleLinkedListLibrary\DoubleLinkedListLibrary\obj\Debug\net6.0\DoubleLinkedListLibrary.csproj.AssemblyReference.cache
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\DoubleLinkedListLibrary\DoubleLinkedListLibrary\obj\Debug\net6.0\DoubleLinkedListLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\DoubleLinkedListLibrary\DoubleLinkedListLibrary\obj\Debug\net6.0\DoubleLinkedListLibrary.AssemblyInfoInputs.cache
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\DoubleLinkedListLibrary\DoubleLinkedListLibrary\obj\Debug\net6.0\DoubleLinkedListLibrary.AssemblyInfo.cs
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\DoubleLinkedListLibrary\DoubleLinkedListLibrary\obj\Debug\net6.0\DoubleLinkedListLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\DoubleLinkedListLibrary\DoubleLinkedListLibrary\obj\Debug\net6.0\DoubleLinkedListLibrary.dll
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\DoubleLinkedListLibrary\DoubleLinkedListLibrary\obj\Debug\net6.0\refint\DoubleLinkedListLibrary.dll
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\DoubleLinkedListLibrary\DoubleLinkedListLibrary\obj\Debug\net6.0\DoubleLinkedListLibrary.pdb
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\DoubleLinkedListLibrary\DoubleLinkedListLibrary\obj\Debug\net6.0\DoubleLinkedListLibrary.genruntimeconfig.cache
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\DoubleLinkedListLibrary\DoubleLinkedListLibrary\obj\Debug\net6.0\ref\DoubleLinkedListLibrary.dll
